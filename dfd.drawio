@@ -1,27 +1,74 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram name="Page-1" id="d9G2iWIqkgtL0lnNkPmi">
-    <mxGraphModel>
+    <mxGraphModel dx="1356" dy="583" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Data Source" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="11" y="8" width="146" height="48" as="geometry" />
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="36" width="132.62" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Transform Data" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="14" y="129" width="140" height="48" as="geometry" />
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-7" value="User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="9.81" y="43.5" width="73" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Data Storage" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="8" y="250" width="152" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="5" value="Fetch Data" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8-itrMSfXh_BIX-EE_ab-6" target="8-itrMSfXh_BIX-EE_ab-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139" y="65" as="sourcePoint" />
+            <mxPoint x="241" y="61" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6" value="Process Data" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="3" target="4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="12" width="102" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-11" value="Dashboard" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="294" y="40" width="76" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-12" value="Navigates" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="147" y="36" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-13" value="Selects countries" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="129.5" y="66" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8-itrMSfXh_BIX-EE_ab-10" target="8-itrMSfXh_BIX-EE_ab-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169" y="282" as="sourcePoint" />
+            <mxPoint x="335" y="197" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="204" width="133" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-16" value="Requests Migration Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="335" y="141" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-17" value="Data Source" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="277" y="211.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8-itrMSfXh_BIX-EE_ab-15" target="8-itrMSfXh_BIX-EE_ab-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169" y="282" as="sourcePoint" />
+            <mxPoint x="165" y="229" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-13.69" y="196.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-20" value="Algorithm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="19" y="209" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-21" value="Data Visualization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="121" y="196.5" width="138" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8-itrMSfXh_BIX-EE_ab-19" target="8-itrMSfXh_BIX-EE_ab-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="32.81" y="171" as="sourcePoint" />
+            <mxPoint x="82.81" y="121" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-23" value="Display Analysis&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-13.689999999999998" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8-itrMSfXh_BIX-EE_ab-24" value="(level 0 DFD)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="291" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
