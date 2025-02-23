@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.15">
   <diagram name="Page-1" id="Klqd6VEALR-ypfOefInQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1532" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZrxTrqiOqdM6XHhNX3Mw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="15" width="750" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrxTrqiOqdM6XHhNX3Mw-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="63.89" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrxTrqiOqdM6XHhNX3Mw-3" value="User Interface Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="265" y="24.25" width="320" height="39.64285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrxTrqiOqdM6XHhNX3Mw-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Mobile App&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="63.89" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrxTrqiOqdM6XHhNX3Mw-5" value="User Login" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="103.88999999999999" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrxTrqiOqdM6XHhNX3Mw-11" value="User Login" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="200" y="103.88999999999999" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
